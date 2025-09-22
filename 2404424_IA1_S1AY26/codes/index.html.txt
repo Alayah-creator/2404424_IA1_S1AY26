@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alayah Morrison - Portfolio</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <img src="../Assets/logo.png" alt="My Logo" width="100">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="resume.html">Resume</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <!-- About Section -->
+  <main>
+    <section id="about">
+      <h1>Hello, I'm Alayah Morrison</h1>
+      <p>I am a second-year student at the University of Technology majoring in Computer Science.  
+         I enjoy learning new skills and working with others on projects.</p>
+      <a href="mailto:morrisonalayah906@gmail.com">
+        <img src="../Assets/profile.jpg" alt="Alayah Morrison" width="150">
+      </a>
+    </section>
+
+    <!-- Vision & Mission -->
+    <section>
+      <h2>Vision & Mission</h2>
+      <p><strong>Vision:</strong> To become a skilled computer scientist and create technology that helps people.</p>
+      <p><strong>Mission:</strong> To keep learning, stay adaptable, and use my skills to solve real-world problems.</p>
+    </section>
+
+    <!-- Personality -->
+    <section>
+      <h2>My Personality</h2>
+      <ul>
+        <li><strong>Organized</strong> – helps me manage school projects well.</li>
+        <li><strong>Adaptable</strong> – I adjust to new challenges quickly.</li>
+        <li><strong>Team Player</strong> – I work well with classmates on group tasks.</li>
+      </ul>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact">
+      <h2>Contact Me</h2>
+      <p>Email: <a href="mailto:morrisonalayah906@gmail.com">morrisonalayah906@gmail.com</a></p>
+      <p>Phone: (876) 544-6737</p>
+      <p><a href="https://github.com/YOURUSERNAME/YOURSTUDENTID_IA1_S1AY26" target="_blank">My GitHub Repository</a></p>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 Alayah Morrison</p>
+  </footer>
+
+</body>
+</html>

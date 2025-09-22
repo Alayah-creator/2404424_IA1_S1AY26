@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Resume - Alayah Morrison</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+  <header>
+    <nav>
+      <a href="index.html">Home</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>My Resume</h1>
+    <h2>Education</h2>
+    <p><strong>University of Technology (2024 - 2028)</strong> - Computer Science</p>
+    <p><strong>St. Catherine High (2017 - 2024)</strong> - Cape CSEC</p>
+
+    <h2>Experience</h2>
+    <ul>
+      <li><strong>Restaurant/Kitchen Help</strong> (May 2025 - Aug 2025)</li>
+      <li><strong>Poll Clerk</strong>, Electoral Commission of Jamaica (Feb 2024)</li>
+      <li><strong>Crew Member</strong>, Subway (June 2025 - Aug 2025)</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+      <li>Organized</li>
+      <li>Reliable</li>
+      <li>Adaptable</li>
+      <li>Teamwork</li>
+    </ul>
+
+    <h2>References</h2>
+    <p>Tannillia Hanson – Student, UWI – (658)-218-1960</p>
+    <p>Shaneke Grey – Customs Agent, Jamaica Customs – (876)-503-7477</p>
+  </main>
+
+  <footer>
+    <p>Back to <a href="index.html">Home</a></p>
+  </footer>
+
+</body>
+</html>
